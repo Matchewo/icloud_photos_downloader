@@ -73,7 +73,7 @@ test = [
     "types-pytz==2026.5.0.20261006",
     "types-tzlocal==5.1.0.1",
     "types-requests==2.33.0.20261006",
-    "types-tqdm==4.70.0.20260906",
+    "types-tqdm==4.70.0.20261106",
     "types-mock==5.2.0.20260518",
     "types-waitress==3.0.1.20260724",
 ]
